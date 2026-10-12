@@ -63,6 +63,12 @@ As fontes foram selecionadas considerando:
 
 ---
 
+🔗 Link do Notebook
+
+Link compartilhado do Gemini Notebook:
+
+[Acessar](https://notebook.google.com/notebook/edbf1bc7-722f-49c1-895e-0d40574c06dd?pli=1&authuser=0&pageId=none)
+
 ## 🤖 Diretriz Utilizada no Gemini Notebook
 
 ```text
